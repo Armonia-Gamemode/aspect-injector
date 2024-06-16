@@ -17,9 +17,9 @@
       https://github.com/pamidur/aspect-injector/releases/tag/$(Version)
     </PackageDescription>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/pamidur/aspect-injector</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/pamidur/aspect-injector</RepositoryUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/pamidur/aspect-injector/master/package.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/Armonia-Gamemode/aspect-injector/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Armonia-Gamemode/aspect-injector/</RepositoryUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Armonia-Gamemode/aspect-injector/master/package.png</PackageIconUrl>
     <PackageIcon>package.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>git</RepositoryType>
