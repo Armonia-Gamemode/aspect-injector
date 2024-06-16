@@ -25,7 +25,7 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryCommit>$(CommitSHA)</RepositoryCommit>
     <PackageTags>aop aspect interceptor injector aot blazor attribute il weaving boundary post-compiler</PackageTags>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <IncludeBuildOutput>False</IncludeBuildOutput>
     <PackageReleaseNotes>See here => https://github.com/pamidur/aspect-injector/releases/tag/$(Version)</PackageReleaseNotes>
     <Version>0.0.0</Version>
